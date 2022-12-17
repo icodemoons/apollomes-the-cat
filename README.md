@@ -8,3 +8,4 @@
   <img src="https://media4.giphy.com/media/l0HlBO95YqWlKaDRu/giphy.gif" height="500px" width="500px"/>
 </div>
 
+<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/l0HlBO95YqWlKaDRu" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/mashable-l0HlBO95YqWlKaDRu">via GIPHY</a></p>
