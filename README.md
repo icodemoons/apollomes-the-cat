@@ -3,7 +3,7 @@
 Whether you're an experienced developer or just starting out, I'm excited to share my knowledge and insights with you. 
 
 <div id="header" align="center">
-  <img src="https://media1.giphy.com/media/ktEONORwLQ9q0/giphy.gif" height="150px" width="300px"/>
+  <img src="https://media1.giphy.com/media/ktEONORwLQ9q0/giphy.gif" height="250px" width="500px"/>
 </div>
 
 So come on in and let's explore the vast world of coding together!
