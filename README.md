@@ -10,5 +10,6 @@
 <p style="font-size: 1.5em; text-align: center;">I'm always looking to learn and grow, so feel free to connect with me on GitHub or check out my projects. Let's build and create together!</p>
 <div align="center">
   <img src="https://media0.giphy.com/media/Qxwbqpt4yevFGR598t/giphy.gif" height="250px" width="350px" />
+  <br />
   <p style="font-size: 1.5em; text-align: center; color: #00b8d4;">"The greatest glory in living lies not in never falling, but in rising every time we fall." -Nelson Mandela</p>
 </div>
