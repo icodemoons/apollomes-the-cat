@@ -11,7 +11,9 @@
 <div align="center">
   <img src="https://media2.giphy.com/media/QXqf43mbeBbYFTy4jR/giphy.gif" height="250px" width="350px" />
   <br />
+  <p style="font-size: 1.5em; text-align: center;">On this journey through the vast world of coding, we will not only explore and create, but we will also strive for excellence and push the boundaries of what is possible. We will embrace challenges and failures as opportunities for growth, and we will rise to every occasion with determination and resilience.</p>
+<p style="font-size: 1.5em; text-align: center;">Together, we will discover new frontiers in the world of technology, and we will work to bring our vision to life. Whether you are an experienced developer or just starting out, I am excited
+
   <p style="font-size: 1.5em; text-align: center; color: #00b8d4;">"The greatest glory in living lies not in never falling, but in rising every time we fall." -Nelson Mandela</p>
 </div>
-
 
