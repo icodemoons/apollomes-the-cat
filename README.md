@@ -12,7 +12,3 @@
   <img src="https://media.giphy.com/media/l4Ki2sO2hYvMf0BmM/giphy.gif" height="250px" width="500px" />
   <p style="font-size: 1.5em; text-align: center; color: #00b8d4;">"The greatest glory in living lies not in never falling, but in rising every time we fall." -Nelson Mandela</p>
 </div>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/xT0BKvL3w8KJ1mZIKs/giphy.gif" height="250px" width="500px" />
-</div>
