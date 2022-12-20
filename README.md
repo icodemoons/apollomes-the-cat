@@ -1,4 +1,4 @@
-🌱 Welcome to my coding universe, where creativity and imagination run wild! In this place, ideas grow on trees and the possibilities are endless. Whether you're an experienced developer or just starting out, I'm excited to share my knowledge and insights with you. 
+🌱 <p align="center">Welcome to my coding universe, where creativity and imagination run wild! In this place, ideas grow on trees and the possibilities are endless. Whether you're an experienced developer or just starting out, I'm excited to share my knowledge and insights with you. </p>
 <br />
 
 <div id="header" align="center">
