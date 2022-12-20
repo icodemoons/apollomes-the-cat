@@ -13,3 +13,55 @@
   <br />
   <p style="font-size: 1.5em; text-align: center; color: #00b8d4;">"The greatest glory in living lies not in never falling, but in rising every time we fall." -Nelson Mandela</p>
 </div>
+
+
+<style>
+  .profile-picture {
+    position: relative;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    background: #fff;
+    overflow: hidden;
+  }
+
+  .profile-picture img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    animation: profile-picture-animation 5s linear infinite;
+  }
+
+  @keyframes profile-picture-animation {
+    0% {
+      transform: rotate(0deg);
+    }
+    100% {
+      transform: rotate(360deg);
+    }
+  }
+
+  .profile-picture::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background: rgba(255, 255, 255, 0.5);
+    animation: profile-picture-glow 2s linear infinite;
+  }
+
+  @keyframes profile-picture-glow {
+    0% {
+      box-shadow: 0 0 0 0px rgba(255, 255, 255, 0.5);
+    }
+    100% {
+      box-shadow: 0 0 0 20px rgba(255, 255, 255, 0);
+    }
+  }
+</style>
+
+<div class="profile-picture">
+  <img src="https://pbs.twimg.com/profile_images/1234567890/profile-picture.jpg" alt="Profile Picture" />
+</div>
