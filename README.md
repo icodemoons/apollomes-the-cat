@@ -24,8 +24,8 @@ Proficient in React, JavaScript, HTML, CSS, and NextJS. Experience with Tailwind
 
 Strong communication skills (written and verbal). Team player and ability to work collaboratively with others. Time management and organization skills. Ability to work under pressure and meet deadlines. Adaptability and flexibility. Leadership and management skills. Positive attitude and motivation. Conflict resolution and problem-solving skills. Active listening and empathy. Interpersonal skills and ability to build relationships. Cultural awareness and sensitivity. Mentorship and coaching skills.
 
-<div align="center">
-   <h2 style="color: #00b8d4; font-size: 1.5em; text-shadow: 2px 2px 4px #ffff00;">Work Experience</h2>
+<div align="left">
+   <h2 style="color: #00b8d4; font-size: 2.5em; text-shadow: 2px 2px 4px #ffff00;">Work Experience</h2>
 </div>
 
 Web Specialist/Designer, Marketing and Sales Associate. 2018-2021 |
@@ -45,11 +45,12 @@ Helped build and grow a startup business, managing multiple client accounts and 
    <h1 style="color: #00b8d4; font-size: 1.5em; text-shadow: 2px 2px 4px #ffff00;">Let's Connect</h1>
 </div>
 
-<p style="font-size: 1.5em; text-align: center;">I'm always looking to learn and grow, so feel free to connect with me on GitHub or check out my projects. Let's build and create together!</p>
-
 <div align="center">
   <img src="https://media2.giphy.com/media/QXqf43mbeBbYFTy4jR/giphy.gif" height="250px" width="350px" />
   <br />
+  
+<p style="font-size: 1.5em; text-align: center;">I'm always looking to learn and grow, so feel free to connect with me on GitHub or check out my projects. Let's build and create together!</p>
+
   <p style="font-size: 1.5em; text-align: center;">On this journey through the vast world of coding, we will not only explore and create, but we will also strive for excellence and push the boundaries of what is possible. We will embrace challenges and failures as opportunities for growth, and we will rise to every occasion with determination and resilience.</p>
 
   <p style="font-size: 1.5em; text-align: center; color: #00b8d4;">"The greatest glory in living lies not in never falling, but in rising every time we fall." -Nelson Mandela</p>
