@@ -66,5 +66,5 @@ Helped build and grow a startup business, managing multiple client accounts and 
   <img src="https://media2.giphy.com/media/QXqf43mbeBbYFTy4jR/giphy.gif" height="250px" width="350px" />
 </div> 
 <br />
-<p align="center" style="font-size: 1.5em; text-align: center;">Thank you for visiting,</p>
+<p align="center" style="font-size: 1.5em; text-align: center;">Thank you for visiting.</p>
 
