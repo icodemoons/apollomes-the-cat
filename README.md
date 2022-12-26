@@ -24,7 +24,7 @@ Proficient in React, JavaScript, HTML, CSS, and NextJS. Experience with Tailwind
 
 Strong communication skills (written and verbal). Team player and ability to work collaboratively with others. Time management and organization skills. Ability to work under pressure and meet deadlines. Adaptability and flexibility. Leadership and management skills. Positive attitude and motivation. Conflict resolution and problem-solving skills. Active listening and empathy. Interpersonal skills and ability to build relationships. Cultural awareness and sensitivity. Mentorship and coaching skills.
 
-<div align="left">
+<div align="center">
    <h1 style="color: #00b8d4; font-size: 2.5em; text-shadow: 2px 2px 4px #ffff00;">Work Experience</h1>
 </div>
 
