@@ -57,9 +57,8 @@ Web Development Specialist, Brand Facilitator, and Account Manager. 2014-2020 | 
 Helped build and grow a startup business, managing multiple client accounts and learning entrepreneurship. Developed and maintained the brand's online identity, including website creation, content development, and marketing materials. Represented the company at trade shows and events, presenting and selling products, networking, and providing entertainment through DJing and dancing.</p>
 <br />
 <div align="center"> 
-     <br />
-      <img src="https://media2.giphy.com/media/nCVVpakhBTwBi/giphy.gif" height="150px" width="300px" />
-   <h1 style="color: #00b8d4; font-size: 2.5em; text-shadow: 2px 2px 4px #ffff00;">Inspiration</h1>
+ 
+    <h1 style="color: #00b8d4; font-size: 2.5em; text-shadow: 2px 2px 4px #ffff00;">Inspiration</h1>
   <br />
 </div>
 
