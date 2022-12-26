@@ -9,8 +9,8 @@
    <h1 align="center" style="color: #00b8d4; font-size: 1.5em; text-shadow: 2px 2px 4px #ffff00;">Let's build and create together!</h1>
 </div>
 <br />
-<p style="font-size: 1.5em; text-align: center;">In this place, <em>creativity and imagination run wild</em>. Ideas grow on trees and the <strong>possibilities are endless</strong>. Whether you're an experienced developer or just starting out, I'm excited to <strong>share my knowledge and insights</strong> with you.</p>
-   <p align="center" style="font-size: 1.5em; text-align: center;">As we learn and create in the world of coding, let's aim for excellence and push the limits of what's possible. Feel free to connect with me on GitHub or check out my projects.</p>
+<p style="font-size: 1.5em; text-align: center;">In this place, <em>creativity and imagination run wild</em>. Ideas grow on trees and the <strong>possibilities are endless</strong>. Whether you're an experienced developer or just starting out, I'm excited to <strong>share my knowledge and insights</strong> with you. Feel free to connect with me on GitHub or check out my projects.</p>
+ 
 <br /> 
 <div align="center">
     <img src="https://media3.giphy.com/media/yc2RSARVMQbiiNnOHn/giphy.gif" height="150px" width="250px" />
