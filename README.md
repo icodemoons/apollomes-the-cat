@@ -25,7 +25,7 @@ Salary Expectation: $110,000
 
 Skills:
 
-Proficient in React, JavaScript, HTML, CSS, and NextJS. Experience with Tailwind, Photoshop and other systems such as Wordpress, Magento, Shopify, Wix etc... Strong sales and marketing skills, including creativity and the ability to adapt to different client needs. Intuitive and original approach to problem solving.
+Proficient in React, JavaScript, HTML, CSS, TailwindCSS, and NextJS. Experience with Photoshop and other applications such as Wordpress, Magento, Shopify... Strong sales and marketing skills, including creativity and the ability to adapt to different client needs. Intuitive and original approach to problem solving.
 
 Strong communication skills (written and verbal). Team player and ability to work collaboratively with others. Time management and organization skills. Ability to work under pressure and meet deadlines. Adaptability and flexibility. Leadership and management skills. Positive attitude and motivation. Conflict resolution and problem-solving skills. Active listening and empathy. Interpersonal skills and ability to build relationships. Cultural awareness and sensitivity. Mentorship and coaching skills.
 
