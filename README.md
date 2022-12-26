@@ -9,7 +9,9 @@
 <div align="center">
    <h1 style="color: #00b8d4; font-size: 2.5em; text-shadow: 2px 2px 4px #ffff00;">About Me</h1>
 </div>
-
+<div align="center">
+  <img src="https://media1.giphy.com/media/DXlNcsmlvSNtsTIBuq/giphy.gif" height="150px" width="250px" />
+ </div>
 <p style="font-size: 1.5em; text-align: left;">I'm a software developer and a student with a passion for science, nature, and creativity. I have a diverse background in sales, marketing, website management, Photoshop, and hospitality, which has given me excellent communication and people skills. I love exploring new technologies and finding creative solutions to challenging problems. In my free time, you can find me being outdoors, lighting up some candles, or hitting the dance floor.</p>
 <div align="center">
    <h1 style="color: #00b8d4; font-size: 2.5em; text-shadow: 2px 2px 4px #ffff00;">Brief Resume</h1>
