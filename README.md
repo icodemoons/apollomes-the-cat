@@ -56,11 +56,11 @@ Helped build and grow a startup business, managing multiple client accounts and 
 <br />
 <div align="center">
    <p style="font-size: 1.5em; text-align: center;">"As we learn and create in the world of coding, let's aim for excellence and push the limits of what's possible."</p>
-<br />
+ 
     <p style="font-size: 1.5em; text-align: center; color: #00b8d4;">"The greatest glory in living lies not in never falling, but in rising every time we fall." -Nelson Mandela</p>
-    <br />
+ 
        <p style="font-size: 1.5em; text-align: center;">Feel free to connect with me on GitHub or check out my projects.</p>
- <br />
+ 
   <img src="https://media2.giphy.com/media/QXqf43mbeBbYFTy4jR/giphy.gif" height="250px" width="350px" />
 <br />
 </div>
