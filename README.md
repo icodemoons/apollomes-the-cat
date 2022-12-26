@@ -59,7 +59,7 @@ Helped build and grow a startup business, managing multiple client accounts and 
 <div align="center"> 
      <br />
       <img src="https://media2.giphy.com/media/nCVVpakhBTwBi/giphy.gif" height="150px" width="300px" />
-   <h1 style="color: #00b8d4; font-size: 2.5em; text-shadow: 2px 2px 4px #ffff00;">Work Experience</h1>
+   <h1 style="color: #00b8d4; font-size: 2.5em; text-shadow: 2px 2px 4px #ffff00;">Inspiration</h1>
   <br />
 </div>
 
