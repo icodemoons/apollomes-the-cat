@@ -3,18 +3,24 @@
   <h1 style="color: #00b8d4; font-size: 2.5em; text-shadow: 2px 2px 4px #ffff00;">Welcome to my coding universe!</h1>
 </div>
 
-
 <p style="font-size: 1.5em; text-align: center;">In this place, <em>creativity and imagination run wild</em>. Ideas grow on trees and the <strong>possibilities are endless</strong>. Whether you're an experienced developer or just starting out, I'm excited to <strong>share my knowledge and insights</strong> with you.</p>
-<p style="font-size: 1.5em; text-align: center;">So come on in and let's explore the vast world of coding together!</p>
-<div align="center">
-    <img src="https://media4.giphy.com/media/3oFzlV33cCEKX9e5Qk/giphy.gif" height="300px" width="500px" />
 
+<div align="center">
+    <img src="https://media3.giphy.com/media/yc2RSARVMQbiiNnOHn/giphy.gif" height="150px" width="250px" />
    <h1 style="color: #00b8d4; font-size: 2.5em; text-shadow: 2px 2px 4px #ffff00;">About Me</h1>
 </div>
- 
-<p style="font-size: 1.5em; text-align: left;">I'm a software developer and a student with a passion for science, nature, and creativity. I have a diverse background in sales, marketing, website management, Photoshop, and hospitality, which has given me excellent communication and people skills. I love exploring new technologies and finding creative solutions to challenging problems. In my free time, you can find me being outdoors, lighting up some candles, or hitting the dance floor.</p>
+  
+
+<p style="font-size: 1.5em; text-align: left;">As a software developer and student, I am passionate about math, engineering, and science. I am currently pursuing a degree in these fields, with the aim of using my skills and knowledge to make a positive impact on the world. My diverse background in sales, marketing, website management, and Photoshop, among other areas, has honed my communication and interpersonal abilities. I am constantly seeking to expand my understanding of technology and find creative solutions to complex problems. In my spare time, I enjoy immersing myself in nature, basking in the calming ambiance of candlelight, and indulging in my love of movement.
+
+
+</p>
+
+
+
 <div align="center">
    <h1 style="color: #00b8d4; font-size: 2.5em; text-shadow: 2px 2px 4px #ffff00;">Brief Resume</h1>
+    <img src="https://media0.giphy.com/media/XHAcTxYMtkkdbasORF/giphy.gif" height="150px" width="300px" />
 </div>
 
 <p style="font-size: 1.5em; text-align: center;">Highly skilled Front/Full Stack Developer with a diverse background in marketing and sales.</p>
