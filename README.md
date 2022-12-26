@@ -52,16 +52,16 @@ Helped build and grow a startup business, managing multiple client accounts and 
 <div align="center">
    <h1 style="color: #00b8d4; font-size: 1.5em; text-shadow: 2px 2px 4px #ffff00;">Let's build and create together!</h1>
 </div>
-<br />
+
 <br />
 <div align="center">
+    <p style="font-size: 1.5em; text-align: center; color: #00b8d4;">"The greatest glory in living lies not in never falling, but in rising every time we fall." -Nelson Mandela</p>
+    <br />
   <img src="https://media2.giphy.com/media/QXqf43mbeBbYFTy4jR/giphy.gif" height="250px" width="350px" />
   <br />
-    <br />
-<p style="font-size: 1.5em; text-align: center;">I'm always looking to learn and grow, so feel free to connect with me on GitHub or check out my projects. </p>
+    <p style="font-size: 1.5em; text-align: center;">"As we learn and create in the world of coding, let's aim for excellence and push the limits of what's possible. Feel free to connect with me on GitHub or check out my projects."</p>
+<br />
+ 
 
-  <p style="font-size: 1.5em; text-align: center;">On this journey through the vast world of coding, we will not only explore and create, but we will also strive for excellence and push the boundaries of what is possible. We will embrace challenges and failures as opportunities for growth, and we will rise to every occasion with determination and resilience.</p>
 
-  <p style="font-size: 1.5em; text-align: center; color: #00b8d4;">"The greatest glory in living lies not in never falling, but in rising every time we fall." -Nelson Mandela</p>
 </div>
-
