@@ -1,5 +1,5 @@
 <div align="center">
-    <h1 style="color: #00b8d4; font-size: 2.5em; text-shadow: 2px 2px 4px #ffff00;">Welcome to my coding universe!</h1>
+    <h1 style="color: #00b8d4; font-size: 2.5em; text-shadow: 2px 2px 4px #ffff00;">Welcome to my coding planet!</h1>
 <br />
   <img src="https://media4.giphy.com/media/26u3Z1OvwHu2DocXm/giphy.gif" height="300px" width="500px" />
 </div>
