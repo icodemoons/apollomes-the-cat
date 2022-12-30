@@ -22,7 +22,6 @@
   <br />
 <div align="center">
           <img src="https://media2.giphy.com/media/nCVVpakhBTwBi/giphy.gif" height="150px" width="300px" />
-
    <h1 style="color: #00b8d4; font-size: 2.5em; text-shadow: 2px 2px 4px #ffff00;">Brief Resume</h1>
 </div>
   <br />
@@ -39,8 +38,6 @@ Strong communication skills (written and verbal). Team player and ability to wor
 
 <div align="center"> 
        <img src="https://media0.giphy.com/media/XHAcTxYMtkkdbasORF/giphy.gif" height="150px" width="300px" />
-
-     <br />
    <h1 style="color: #00b8d4; font-size: 2.5em; text-shadow: 2px 2px 4px #ffff00;">Work Experience</h1>
   <br />
 </div>
