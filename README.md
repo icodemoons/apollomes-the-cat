@@ -71,5 +71,4 @@ Helped build and grow a startup business, managing multiple client accounts and 
 <p align="center" style="font-size: 1.5em; text-align: center;">Thank you for visiting.</p>
 
 <br />
-<p style="font-size: 1.5em; text-align: center;"><em>P.s</em>. Whether you're an experienced developer looking to improve your skills or a beginner just starting out, I'm happy to offer my insights and support. You can connect with me on GitHub or check out my projects to learn more about my work and expertise. Don't hesitate to reach out and let me know how I can help you grow as a developer!"</p>
-
+ 
