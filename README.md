@@ -17,11 +17,11 @@
    <h1 style="color: #00b8d4; font-size: 2.5em; text-shadow: 2px 2px 4px #ffff00;">About Me</h1>
 </div>
   <br />
-<p style="font-size: 1.5em; text-align: left;">As a software developer and student, I am passionate about math, engineering, and science. I am currently pursuing a degree in these fields, with the aim of using my skills and knowledge to make a positive impact on the world. My diverse background in sales, marketing, website management, art, entertainment, and my unique talent to listen has honed my communication and interpersonal abilities. I am constantly seeking to expand my understanding of technology and find creative solutions to complex problems. 
+<p style="font-size: 1.5em; text-align: left;">"Passion for math, engineering, and science runs through my veins like the very blood of the gods. I am ever-vigilant in my pursuit of knowledge, always seeking new ways to expand my understanding of technology. My diverse background in mortal pursuits, such as sales, marketing, and website management, have honed my communication and interpersonal abilities, making me a true master of both worlds. My unique ability to listen, like the god of writing, allows me to find creative solutions to even the most complex of problems. I am driven to make a positive impact on the world, to bring progress and innovation through my skills and knowledge as a software developer."
 </p>
   <br />
 <div align="center">
-          <img src="https://media2.giphy.com/media/nCVVpakhBTwBi/giphy.gif" height="150px" width="300px" />
+      
    <h1 style="color: #00b8d4; font-size: 2.5em; text-shadow: 2px 2px 4px #ffff00;">Brief Resume</h1>
 </div>
   <br />
